@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: CloudSearch
+Plugin Name: CloudSearch (Pugpig fork)
 Description: CloudSearch is a flexible plugin that allows you to leverage the search index power of Amazon CloudSearch in your WordPress site.
 Author: Andrea Landonio
 Author URI: http://www.andrealandonio.it
